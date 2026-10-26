@@ -9,7 +9,7 @@ class ExportPage extends StatefulWidget {
 }
 
 class _ExportPageState extends State<ExportPage> {
-  static const accent = Color(0xFF2EE6D6);
+  static const accent = Color(0xFFB9C6D4);
   static const resLabels = ['480p', '720p', '1080p', '2K', '4K'];
   static const resMbps = [2.0, 5.0, 10.0, 20.0, 45.0];
   static const fpsOptions = [24, 25, 30, 50, 60];
